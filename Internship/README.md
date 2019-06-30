@@ -10,3 +10,11 @@ Provide unique summer internship opportunity to BE/BTECH students in Bihar in th
 <li> Satya Prakash Modi - Full Stack Developer and Data Scientist at IBM Data & AI
 <li> Tulika Sahu - Full Stack Developer and Data Scientist at IBm Data & AI 
 ## Calendar of events
+  
+  Monday July 1 - Introduction to AI by Rakesh Ranjan
+  Tuesday July 2 - Python programming for AI and Machine Learning
+  
+## Required Survey:
+Please take this survey before the session: https://www.surveymonkey.com/r/NB7TLGV
+
+## Assignments:
