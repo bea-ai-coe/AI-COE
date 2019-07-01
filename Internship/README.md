@@ -16,5 +16,7 @@ Provide unique summer internship opportunity to BE/BTECH students in Bihar in th
   
 ## Required Survey:
 Please take this survey before the session: https://www.surveymonkey.com/r/NB7TLGV
-
+## Presentation materials:
+https://github.com/bea-ai-coe/AI-COE/tree/master/Webinar
 ## Assignments:
+Look into Assignments folder
