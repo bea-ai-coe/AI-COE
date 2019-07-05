@@ -1,0 +1,12 @@
+
+* Create a new notebook
+
+Head over to Colab [https://colab.research.google.com] and click on New Notebook (choose either Python 2 or 3) to create a new notebook.
+
+By default it’s created in your Google Drive under Colab Notebooks. Since it’s in Google Drive,
+
+you can move it around and share it just like any other Drive documents.
+
+* Using a local notebook 
+
+Upload the notebook file to folder 'Colab Notebooks', then open it from there in colab.
